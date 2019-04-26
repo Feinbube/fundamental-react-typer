@@ -1,0 +1,22 @@
+{
+  "name": "fundamental-react-typer",
+  "version": "0.5.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "react": "^16.8.6",
+    "typescript": "^3.4.5"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.14",
+    "@types/lodash": "^4.14.123",
+    "@types/node": "^11.13.7"
+  }
+}
